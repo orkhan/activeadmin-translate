@@ -1,11 +1,11 @@
-en:
+az:
   active_admin:
     translate:
       en: 'English'
       de: 'German'
       fr: 'French'
       it: 'Italian'
-      es: 'Español'
-      ca: 'Catalán'
+      es: 'Spanish'
+      ca: 'Catalan'
       az: 'Azerbaijani'
       ru: 'Russian'
